@@ -1,0 +1,2 @@
+# cmake_add_version
+一个项目使用cmake添加文件版本信息的demo
